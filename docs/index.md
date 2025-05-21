@@ -38,7 +38,16 @@ Contact}}\
 \
  {Location:\
 Location} \
-end{center}  \
+end{center}    \
+section{Quick Links} \
+begin{itemize} \
+item\
+href{https://www.overleaf.com/project/682e5e6324c0ef2720a9e16f}{\
+textbf{Weekly problem presentations}} \
+item\
+href{https://www.overleaf.com/project/682e5fe73df63ce5ead80eea}{\
+textbf{Running Errata}} \
+end{itemize}  \
 section{Overview} This reading group will be a second pass at linear
 algebra, similar to how a first course in analysis is a second pass at
 calculus. We will rigorously work through the following topics: \
