@@ -5,10 +5,10 @@ title: Summer Linear Algebra Overview
 # Quick Links
 
 -   [**Weekly problem
-    presentations**](https://www.overleaf.com/project/682e5e6324c0ef2720a9e16f)
+    presentations**](https://www.overleaf.com/8251467867kkqxyvzcmndp#f019d2)
 
 -   [**Running
-    Errata**](https://www.overleaf.com/project/682e5fe73df63ce5ead80eea)
+    Errata**](https://www.overleaf.com/7498622626cjfdwmgbbcjq#7b94e3)
 
 # Overview
 
