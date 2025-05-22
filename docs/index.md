@@ -84,8 +84,13 @@ Here's what we will do each week before the meeting:
     sheets](https://www.dpmms.cam.ac.uk/study/IB/LinearAlgebra/) and
     [these problem
     sets](https://ocw.mit.edu/courses/18-700-linear-algebra-fall-2013/pages/assignments/).)
+    Write down the problem in [**this Overleaf
+    file**](https://www.overleaf.com/8251467867kkqxyvzcmndp#f019d2), and
+    prepare to walk through your solution if you have one.
 
-3.  If it's your turn, prepare to present the proof of two or three
+3.  If you have time, try to solve other problems in the Overleaf file.
+
+4.  If it's your turn, prepare to present the proof of two or three
     important theorems from this week.
 
 We will meet Sunday 3pm over zoom, for around 90 minutes. Here's how
