@@ -4,6 +4,8 @@ title: Summer Linear Algebra Overview
 
 # Quick Links
 
+-   [**Zoom room**](https://us06web.zoom.us/j/86241673980)
+
 -   [**Weekly problem
     presentations**](https://www.overleaf.com/8251467867kkqxyvzcmndp#f019d2)
 
