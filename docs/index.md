@@ -45,7 +45,7 @@ necessary.
 # Textbooks
 
 All the books mentioned in this section can be found
-[here](https://drive.google.com/drive/folders/1chb49hv65hB8ZXcne0Ljfh3viO_SdOmW?usp=drive_link).
+[here](https://github.com/shengweiming/Summer-Linear-Algebra/tree/main/textbooks).
 
 ## Primary textbook
 
@@ -68,6 +68,8 @@ know of:
 -   *Linear Algebra Done Wrong* by Sergei Treil;
 
 -   *Finite-Dimensional Vector Space* by Paul Halmos;
+
+-   *Linear Algebra Problem Book* by Paul Halmos;
 
 -   *Linear Algebra* by Georgi Shilov;
 
